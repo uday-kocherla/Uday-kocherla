@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-kocherla" alt="uday-kocherla" /></a> </p>
 
-<! - 🌱 I’m currently learning **MERN Full Stack Development** >
+< - 🌱 I’m currently learning **MERN Full Stack Development** >
 
-<!- 💬 Ask me about **HTML,CSS,JS,Python,Java** >
+<- 💬 Ask me about **HTML,CSS,JS,Python,Java** >
 
 - 📫 How to reach me **kocherlauday94@gmail.com**
 
